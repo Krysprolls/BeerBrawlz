@@ -1,0 +1,6 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://d3g6qxhe2p3ny"]
+
+[ext_resource type="Texture2D" uid="uid://dj1wrpbgc3b2k" path="res://Textures/beer_ready_blue_DefaultMaterial_AlbedoTransparency.png" id="1_bio5h"]
+
+[resource]
+albedo_texture = ExtResource("1_bio5h")
