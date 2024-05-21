@@ -3,4 +3,5 @@
 [ext_resource type="Texture2D" uid="uid://dj1wrpbgc3b2k" path="res://Textures/beer_ready_blue_DefaultMaterial_AlbedoTransparency.png" id="1_bio5h"]
 
 [resource]
+depth_draw_mode = 2
 albedo_texture = ExtResource("1_bio5h")
