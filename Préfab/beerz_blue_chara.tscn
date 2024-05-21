@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://bnsjerefwun1c"]
+
+[ext_resource type="PackedScene" uid="uid://ppqyep1kcbwp" path="res://3D/Characters/beer_chara_blue (1).fbx" id="1_y6u0h"]
+[ext_resource type="Material" uid="uid://d3g6qxhe2p3ny" path="res://Materials/MT_Beerz_Blue.tres" id="2_3pwmr"]
+
+[node name="Root Scene" instance=ExtResource("1_y6u0h")]
+
+[node name="Cylinder_007" parent="RootNode/Armature_005/Skeleton3D" index="0"]
+surface_material_override/0 = ExtResource("2_3pwmr")
